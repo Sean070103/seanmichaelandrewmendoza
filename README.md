@@ -4,8 +4,8 @@
 
 <!-- 🌞 SEAN MICHAEL ANDREW MENDOZA | GITHUB PROFILE -->
 
-<h1 align="center">Mabuhay! 👋 I'm Sean Michael Andrew Mendoza 🇵🇭</h1>
-<h3 align="center">Front-end Developer | Web3 & AI Enthusiast | Always Learning 🚀</h3>
+<h1 align="center"> I'm Sean Michael Andrew Mendoza 🇵🇭</h1>
+<h3 align="center">Front-end Developer | Back-end Developer | Always Learning 🚀</h3>
 
 ---
 
